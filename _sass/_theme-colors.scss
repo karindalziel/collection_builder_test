@@ -5,8 +5,8 @@
 
 /* Color contrast function from Bootstrap */
 $yiq-contrasted-threshold:  150 !default;
-$yiq-text-dark:             #212529 !default;
-$yiq-text-light:            #fff !default;
+$yiq-text-dark:             #341E1E !default;
+$yiq-text-light:            #F8FBEF !default;
 @function color-yiq($color, $dark: $yiq-text-dark, $light: $yiq-text-light) {
     $r: red($color);
     $g: green($color);
