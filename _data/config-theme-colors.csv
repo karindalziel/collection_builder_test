@@ -1,9 +1,9 @@
 color_class,color
 primary,#FE5F55
-secondary,
-success,
-info,
-warning,
-danger,
-light,
-dark,
+secondary,#FE5F55
+success,#FE5F55
+info,#FE5F55
+warning,#FE5F55
+danger,#FE5F55
+light,#FE5F55
+dark,#FE5F55
